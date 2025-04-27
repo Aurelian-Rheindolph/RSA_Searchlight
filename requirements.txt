@@ -1,0 +1,8 @@
+torch
+nibabel
+numpy
+matplotlib
+scipy
+pandas
+torchvision
+nilearn
