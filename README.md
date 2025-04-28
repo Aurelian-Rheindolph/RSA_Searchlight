@@ -8,9 +8,9 @@ This project implements a Representational Dissimilarity Matrix (RDM) analysis u
 torch-rdm-searchlight
 ├── src
 │   ├── main.py               # Entry point for the application
-│   ├── rdm_torch.py          # RDM calculations using PyTorch
+│   ├── rdm_utils.py          # RDM calculations using PyTorch
 │   ├── visualization.py       # Visualization functions for results
-│   ├── utils.py              # Utility functions for data handling
+│   ├── searchlight.py          # Searchlighting
 │   └── types
 │       └── index.py          # Custom types and data structures
 ├── data
